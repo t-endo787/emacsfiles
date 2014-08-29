@@ -1,0 +1,76 @@
+ls
+exit
+ls
+cd dropbox
+ls
+exit
+ls
+exit
+ls
+platex
+cd /usr/local/
+ls
+brew install ghostscript
+sudo brew install ghostscript
+ls
+ls
+ls
+ifconfig
+ifconfig
+ifconfig
+exit
+ls
+ifconfig
+sudo purge
+ls
+emacs test1
+cd
+ls
+cd test1
+which platex
+which gs
+mkdir doc
+lsd
+ls
+mv SSP追加ドキュメント.tex /doc
+sudo mv SSP追加ドキュメント.tex /doc
+exit
+ls
+ls
+sudo gem install terminal-notifier
+sudo gem install terminal-notifier
+unzip growl_new_message_notification-0.4.2-tb-mac.xpi
+ls
+cd download
+cd User
+cd Downloads/
+ls
+cd
+exit
+ls
+cd
+ls
+cd Downloads/
+ls
+cd PyCherryPick-master/
+ls
+cd python/
+ls
+python pycherrypick.py http://tgaudition.ameba.jp/
+exit
+ls
+ls -l
+cd desktop
+ls
+exit
+ipconfig
+ifconfig
+nmap
+ls
+ls
+cd
+ls
+ls
+cd desktop
+ls
+sudo tcpdump -X -w tcptest

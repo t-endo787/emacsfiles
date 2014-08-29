@@ -1,0 +1,156 @@
+((("$ts" .
+   [1 0 0])
+  ("$format" .
+   [0 0 0 1 0 0 0])
+  ("date" .
+   [2 0 0 0])
+  ("print" .
+   [1 0 1 0 0])
+  ("$datetime" .
+   [0 0 0 0 0 1 0 0 0])
+  ("format" .
+   [0 0 1 0 0 0])
+  ("funciton" .
+   [0 0 0 1 0 0 0 0])
+  ("$charset" .
+   [0 0 0 0 0 1 0 0])
+  ("$str" .
+   [1 0 0 0])
+  ("$user" .
+   [1 0 0 0 0])
+  ("$who" .
+   [1 0 0 0])
+  ("user2" .
+   [1 0 0 0 0])
+  ("hello" .
+   [1 0 0 0 0])
+  ("page" .
+   [2 0 0 0])
+  ("さん" .
+   [1 0])
+  ("input" .
+   [1 0 0 0 2])
+  ("twittering-convert-fix-size" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("twittering-mode" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("require" .
+   [0 0 3 1 0 0 0])
+  ("load-path" .
+   [0 0 0 1 0 0 0 0 0])
+  ("add-to-list" .
+   [0 0 0 2 0 0 0 0 0 0 0])
+  ("mode-name" .
+   [0 0 0 0 1 0 0 0 0])
+  ("tw" .
+   [1 0])
+  ("mysqli_close" .
+   [0 0 1 0 0 0 0 0 0 0 0 0])
+  ("expand-file-name" .
+   [0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0])
+  ("load" .
+   [1 0 0 0])
+  ("init" .
+   [1 0 0 0])
+  ("in" .
+   [1 0])
+  ("body" .
+   [1 0 0 1])
+  ("setq" .
+   [5 0 4 4])
+  ("twittering" .
+   [0 0 7 1 0 0 0 0 0 0])
+  ("twittering-account-authorization" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("twittering-oauth-unhex" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0])
+  ("twittering-oauth-access-token-alist" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("twittering-start" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("twittering-status-format" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("twittering-icon-mode" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("twittering-timer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("twittering-timer-interval" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("color-moccur" .
+   [0 0 0 0 1 0 0 1 0 0 0 0])
+  ("conf" .
+   [3 0 0 0])
+  ("config" .
+   [1 0 0 0 0 0])
+  ("when" .
+   [1 0 1 0])
+  ("nil" .
+   [5 0 0])
+  ("occur-by-moccur" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0 0 0])
+  ("define-key" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("global-map" .
+   [0 0 1 1 0 0 0 0 0 0])
+  ("occur" .
+   [0 0 1 0 0])
+  ("SPC" .
+   [0 0 1])
+  ("moccur" .
+   [0 0 2 1 0 0])
+  ("moccur-split-word" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("dmoccur" .
+   [0 0 0 1 0 0 0])
+  ("dmoccur-exclusion-mask" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("and" .
+   [0 0 1])
+  ("executable-find" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("migemo" .
+   [0 0 0 1 0 0])
+  ("s" .
+   [1])
+  ("moccur-use-ee" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("moccur-use-migemo" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("Moccure-edit" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("moccur-edit" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("flymake" .
+   [0 0 0 0 0 0 1])
+  ("tex-mode" .
+   [1 0 0 0 0 0 0 0])
+  ("$rには" .
+   [0 0 1 0])
+  ("mmm-auto" .
+   [1 0 0 0 0 0 0 0])
+  ("$db" .
+   [1 0 2])
+  ("$stt" .
+   [6 0 1 0])
+  ("sdate" .
+   [1 0 0 0 0])
+  ("stime" .
+   [1 0 0 0 0])
+  ("memo" .
+   [1 0 0 0])
+  ("$_POST" .
+   [0 0 5 0 0 0])
+  ("bindValue" .
+   [2 0 1 1 0 0 0 0 0])
+  ("$_SEVER" .
+   [0 0 0 1 0 0 0])
+  ("schedule" .
+   [0 0 1 0 0 0 0 1])
+  ("p" .
+   [1])
+  ("php" .
+   [3 0 0])
+  ("$_SERVER" .
+   [1 0 0 0 0 1 0 0])
+  ("html" .
+   [2 0 0 0])))
